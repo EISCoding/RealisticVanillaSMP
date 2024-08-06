@@ -1,6 +1,7 @@
 
-# Release 1
+# Mods Update
 
-Willkommen bei Realistic Vanilla SMP.
-Dieses Modpack gibt es nur für Freunde von EISCoding für den eigenen Server.
+Es wurden mehr Mods zum Pack hinzugefügt.
 
+- Performance verbesserung
+- Mehr Visuals
